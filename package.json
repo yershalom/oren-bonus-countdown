@@ -2,6 +2,7 @@
   "name": "oren-bonus-countdown",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://yershalom.github.io/oren-bonus-countdown",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
