@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.cbf461b3.chunk.css",
-  "main.js": "/static/js/main.211e6d6c.chunk.js",
-  "main.js.map": "/static/js/main.211e6d6c.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.2937dbad.chunk.js": "/static/js/2.2937dbad.chunk.js",
-  "static/js/2.2937dbad.chunk.js.map": "/static/js/2.2937dbad.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.20c75bb8361164d4a1999ba5cb3c7d85.js": "/precache-manifest.20c75bb8361164d4a1999ba5cb3c7d85.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.cbf461b3.chunk.css.map": "/static/css/main.cbf461b3.chunk.css.map",
-  "static/media/App.css": "/static/media/oren.e1a68eb3.jpg"
+  "main.css": "/oren-bonus-countdown/static/css/main.ee1a795c.chunk.css",
+  "main.js": "/oren-bonus-countdown/static/js/main.fbe131ee.chunk.js",
+  "main.js.map": "/oren-bonus-countdown/static/js/main.fbe131ee.chunk.js.map",
+  "runtime~main.js": "/oren-bonus-countdown/static/js/runtime~main.c850c4dc.js",
+  "runtime~main.js.map": "/oren-bonus-countdown/static/js/runtime~main.c850c4dc.js.map",
+  "static/js/2.2937dbad.chunk.js": "/oren-bonus-countdown/static/js/2.2937dbad.chunk.js",
+  "static/js/2.2937dbad.chunk.js.map": "/oren-bonus-countdown/static/js/2.2937dbad.chunk.js.map",
+  "index.html": "/oren-bonus-countdown/index.html",
+  "precache-manifest.a9fa0ae3da3aabec9056f56da18cba95.js": "/oren-bonus-countdown/precache-manifest.a9fa0ae3da3aabec9056f56da18cba95.js",
+  "service-worker.js": "/oren-bonus-countdown/service-worker.js",
+  "static/css/main.ee1a795c.chunk.css.map": "/oren-bonus-countdown/static/css/main.ee1a795c.chunk.css.map",
+  "static/media/App.css": "/oren-bonus-countdown/static/media/oren.e1a68eb3.jpg"
 }
