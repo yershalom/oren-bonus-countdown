@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/oren-bonus-countdown/precache-manifest.a9fa0ae3da3aabec9056f56da18cba95.js"
+  "/oren-bonus-countdown/precache-manifest.629bc64bdab54fe79cf3237d4b93a865.js"
 );
 
 workbox.clientsClaim();

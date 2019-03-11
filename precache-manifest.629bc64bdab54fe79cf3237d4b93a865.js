@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/oren-bonus-countdown/static/css/main.ee1a795c.chunk.css"
   },
   {
-    "revision": "45f6bfbe5be4289ff2ce6df7d3edf85e",
+    "revision": "0ee1fe642bbdb708e10776ef56cb468d",
     "url": "/oren-bonus-countdown/index.html"
   }
 ];
